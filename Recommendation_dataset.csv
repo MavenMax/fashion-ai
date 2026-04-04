@@ -1,0 +1,176 @@
+skin_tone,undertone,occasion,weather,colors,avoid_colors
+light,cool,casual,summer,"baby pink,lavender,sky blue","mustard,orange"
+light,cool,party,summer,"rose pink,berry,soft blue","yellow,olive"
+light,cool,wedding,winter,"wine,plum,navy",beige
+light,cool,office,winter,"grey,blue,soft pink",orange
+light,warm,casual,summer,"peach,coral,light yellow",grey
+light,warm,party,summer,"warm red,orange,peach",cool blue
+light,warm,wedding,winter,"gold,ivory,red",silver
+light,warm,office,winter,"cream,warm beige",cool grey
+light,neutral,casual,summer,"mint,soft pink,blue",neon
+light,neutral,party,winter,"rose gold,champagne",dark green
+light,neutral,office,summer,"beige,light blue",bright orange
+medium,warm,casual,summer,"coral,peach,orange",ashy grey
+medium,warm,party,summer,"rust,gold,terracotta",pastels
+medium,warm,wedding,winter,"maroon,gold,deep red",cool blue
+medium,warm,office,winter,"brown,warm beige",grey
+medium,cool,casual,summer,"mint blue,rose pink",orange
+medium,cool,party,summer,"berry,magenta,blue",yellow
+medium,cool,wedding,winter,"navy,plum,purple",beige
+medium,cool,office,winter,"grey,soft blue",orange
+medium,neutral,casual,summer,"teal,soft pink",neon
+medium,neutral,party,winter,"wine,deep blue",yellow
+medium,neutral,office,summer,"beige,grey",bright colors
+dark,warm,casual,summer,"mustard,olive,terracotta",white
+dark,warm,party,summer,"gold,bronze,deep orange",pastels
+dark,warm,wedding,winter,"maroon,gold,deep red",cool tones
+dark,warm,office,winter,"brown,olive",light grey
+dark,cool,casual,summer,"royal blue,magenta",brown
+dark,cool,party,summer,"purple,blue,berry",orange
+dark,cool,wedding,winter,"emerald,plum,burgundy",yellow
+dark,cool,office,winter,"grey,navy",orange
+dark,neutral,casual,summer,"teal,white,blue",neon
+dark,neutral,party,winter,"wine,deep purple",light yellow
+dark,neutral,office,summer,"grey,black",bright orange
+light,cool,casual,winter,"lavender,soft blue",orange
+light,warm,casual,winter,"peach,cream",grey
+medium,warm,casual,winter,"rust,olive",pastels
+medium,cool,casual,winter,"blue,rose",yellow
+dark,warm,casual,winter,"mustard,brown",white
+dark,cool,casual,winter,"navy,magenta",orange
+light,neutral,wedding,summer,"champagne,soft pink",dark brown
+medium,neutral,wedding,summer,"teal,rose",neon
+dark,neutral,wedding,summer,"gold,white",light grey
+light,warm,party,winter,"red,coral",cool grey
+medium,cool,party,winter,"purple,blue",orange
+medium,warm,office,summer,"beige,peach",grey
+medium,cool,office,summer,"blue,rose",yellow
+dark,warm,office,summer,"olive,brown",white
+dark,cool,office,summer,"navy,grey",orange
+light,cool,party,winter,"plum,berry,icy blue",mustard
+light,cool,casual,summer,"cool pink,light blue",orange
+light,cool,office,summer,"powder blue,soft grey",yellow
+light,cool,wedding,summer,"rose,lavender",olive
+light,warm,casual,summer,"apricot,light coral",ashy grey
+light,warm,party,winter,"brick red,gold",cool silver
+light,warm,office,summer,"warm ivory,peach",cool tones
+light,warm,wedding,summer,"champagne,coral",blue
+light,neutral,casual,winter,"soft lavender,cream",neon
+light,neutral,party,summer,"rose gold,peach",dark brown
+light,neutral,office,winter,"light grey,blue",bright orange
+light,neutral,wedding,winter,"ivory,champagne",green
+medium,warm,casual,summer,"orange,coral",grey
+medium,warm,party,winter,"deep maroon,bronze",pastels
+medium,warm,office,summer,"tan,beige",cool grey
+medium,warm,wedding,summer,"rust,gold",blue
+medium,cool,casual,summer,"soft blue,pink",orange
+medium,cool,party,winter,"berry,navy",yellow
+medium,cool,office,summer,"cool grey,blue",orange
+medium,cool,wedding,summer,"plum,rose",gold
+medium,neutral,casual,winter,"teal,soft beige",neon
+medium,neutral,party,summer,"deep blue,wine",yellow
+medium,neutral,office,winter,"grey,navy",bright colors
+medium,neutral,wedding,winter,"rose gold,teal",lime
+dark,warm,casual,summer,"mustard,orange",white
+dark,warm,party,winter,"bronze,deep gold",pastels
+dark,warm,office,summer,"olive,brown",light grey
+dark,warm,wedding,summer,"gold,terracotta",blue
+dark,cool,casual,summer,"royal blue,magenta",brown
+dark,cool,party,winter,"deep purple,navy",orange
+dark,cool,office,summer,"grey,blue",yellow
+dark,cool,wedding,summer,"emerald,berry",beige
+dark,neutral,casual,winter,"teal,white",neon
+dark,neutral,party,summer,"deep wine,blue",light yellow
+dark,neutral,office,winter,"black,grey",bright orange
+dark,neutral,wedding,winter,"gold,wine",lime
+light,cool,party,summer,"icy pink,lavender",orange
+light,warm,party,summer,"peach,coral",cool blue
+medium,warm,party,summer,"terracotta,orange",pastel
+medium,cool,party,summer,"blue,magenta",yellow
+dark,warm,party,summer,"gold,bronze",white
+dark,cool,party,summer,"navy,purple",orange
+light,neutral,casual,summer,"soft blue,pink",neon
+medium,neutral,casual,summer,"teal,grey",bright yellow
+dark,neutral,casual,summer,"white,blue",neon green
+light,warm,office,winter,"cream,peach",cool tones
+medium,warm,office,winter,"brown,beige",grey
+dark,warm,office,winter,"olive,brown",light colors
+light,cool,office,winter,"grey,blue",orange
+medium,cool,office,winter,"navy,grey",yellow
+dark,cool,office,winter,"charcoal,blue",orange
+light,neutral,office,summer,"beige,light blue",neon
+medium,neutral,office,summer,"grey,navy",bright
+dark,neutral,office,summer,"black,white",orange
+light,warm,wedding,winter,"gold,red",silver
+medium,warm,wedding,winter,"maroon,gold",blue
+dark,warm,wedding,winter,"deep gold,red",cool tones
+light,cool,wedding,winter,"plum,navy",beige
+medium,cool,wedding,winter,"purple,blue",yellow
+dark,cool,wedding,winter,"emerald,berry",orange
+light,cool,casual,winter,"icy blue,soft pink",mustard
+light,cool,party,winter,"berry,plum",orange
+light,cool,office,summer,"light grey,blue",yellow
+light,cool,wedding,summer,"lavender,rose",olive
+light,warm,casual,winter,"cream,peach",cool grey
+light,warm,party,summer,"coral,orange",blue
+light,warm,office,winter,"beige,apricot",cool tones
+light,warm,wedding,summer,"gold,peach",navy
+light,neutral,casual,summer,"soft blue,cream",neon
+light,neutral,party,winter,"champagne,rose gold",dark green
+light,neutral,office,winter,"grey,soft blue",bright orange
+light,neutral,wedding,winter,"ivory,rose",lime
+medium,warm,casual,winter,"rust,olive",pastels
+medium,warm,party,summer,"orange,gold",cool tones
+medium,warm,office,summer,"tan,brown",grey
+medium,warm,wedding,winter,"maroon,bronze",blue
+medium,cool,casual,winter,"blue,rose",orange
+medium,cool,party,summer,"magenta,navy",yellow
+medium,cool,office,winter,"grey,blue",orange
+medium,cool,wedding,winter,"plum,purple",gold
+medium,neutral,casual,summer,"teal,soft pink",neon
+medium,neutral,party,winter,"deep blue,wine",yellow
+medium,neutral,office,summer,"grey,beige",bright
+medium,neutral,wedding,winter,"rose gold,teal",lime
+dark,warm,casual,winter,"mustard,brown",white
+dark,warm,party,summer,"bronze,gold",pastels
+dark,warm,office,winter,"olive,brown",light grey
+dark,warm,wedding,winter,"deep red,gold",cool tones
+dark,cool,casual,winter,"navy,magenta",brown
+dark,cool,party,summer,"purple,blue",orange
+dark,cool,office,winter,"charcoal,navy",yellow
+dark,cool,wedding,winter,"emerald,plum",beige
+dark,neutral,casual,summer,"white,blue",neon
+dark,neutral,party,winter,"wine,deep purple",light yellow
+dark,neutral,office,summer,"grey,black",bright orange
+dark,neutral,wedding,winter,"gold,wine",lime
+light,cool,party,summer,"lavender,soft blue",orange
+light,warm,party,winter,"red,coral",cool blue
+medium,warm,party,winter,"rust,gold",pastels
+medium,cool,party,winter,"blue,purple",yellow
+dark,warm,party,winter,"gold,bronze",white
+dark,cool,party,winter,"navy,berry",orange
+light,neutral,casual,winter,"cream,soft pink",neon
+medium,neutral,casual,winter,"teal,grey",bright yellow
+dark,neutral,casual,winter,"white,teal",neon green
+light,warm,office,summer,"peach,cream",cool tones
+medium,warm,office,summer,"brown,beige",grey
+dark,warm,office,summer,"olive,brown",white
+light,cool,office,summer,"blue,grey",orange
+medium,cool,office,summer,"navy,grey",yellow
+dark,cool,office,summer,"charcoal,blue",orange
+light,neutral,office,winter,"beige,grey",neon
+medium,neutral,office,winter,"grey,navy",bright
+dark,neutral,office,winter,"black,white",orange
+light,warm,wedding,summer,"peach,gold",silver
+medium,warm,wedding,summer,"rust,gold",blue
+dark,warm,wedding,summer,"deep gold,red",cool tones
+light,cool,wedding,summer,"lavender,blue",beige
+medium,cool,wedding,summer,"plum,blue",yellow
+dark,cool,wedding,summer,"emerald,berry",orange
+light,neutral,wedding,winter,"champagne,rose",dark
+medium,neutral,wedding,winter,"teal,blue",neon
+dark,neutral,wedding,winter,"gold,white",light grey
+medium,warm,casual,winter,"peach,rust",grey
+medium,cool,casual,winter,"blue,rose",orange
+dark,warm,casual,winter,"mustard,olive",white
+dark,cool,casual,winter,"navy,magenta",brown
